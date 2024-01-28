@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1AF8A7FE-6222-4ECC-8418-17E9B18E11D6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9AB56AA-50DE-425B-A309-3149BA9FB1BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiDictionary/EmojiTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9AB56AA-50DE-425B-A309-3149BA9FB1BA - 8c1ab39a6cce5b57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiDictionary.EmojiTableViewController.numberOfSections(in: __C.UITableView) -&gt; Swift.Int"
+                  moduleName = "EmojiDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user2/Desktop/EmojiDictionary/EmojiDictionary/EmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D9AB56AA-50DE-425B-A309-3149BA9FB1BA - 8c1ab39a6cce5b70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiDictionary.EmojiTableViewController.numberOfSections(in: __C.UITableView) -&gt; Swift.Int"
+                  moduleName = "EmojiDictionary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user2/Desktop/EmojiDictionary/EmojiDictionary/EmojiTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
